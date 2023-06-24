@@ -23,6 +23,7 @@ export default component$(() => {
         <a class="button button-dark" href="https://stackoverflow.com/users/17421351/easyoutcoded" target='_blank'><img src="/layers.svg" color="white" alt="layers" /> StackOverflow</a>
         <a class="button button-dark" href="https://hub.docker.com/u/jonasfroeller" target='_blank'><img src="/external-link.svg" color="white" alt="external-link" /> DockerHub</a>
         <a class="button button-dark" href="https://www.fiverr.com/codedesignmedia" target='_blank'><img src="/layout.svg" color="white" alt="layout" /> Fiverr</a>
+        <a class="button button-dark" href="https://buymeacoffee.com/jonasfroeller" target='_blank'><img src="/heart.svg" color="white" alt="layout" /> Support</a>
         <a class="button button-dark" href="https://www.figma.com/@jonasfroeller" target='_blank'><img src="/figma.svg" color="white" alt="figma" /> Figma</a>
         <a class="button button-dark" href="https://dev.to/jonasfroeller" target='_blank'><img src="/align-right.svg" color="white" alt="align-right" /> DevTo</a>
       </section>
